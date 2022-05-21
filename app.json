@@ -1,6 +1,6 @@
 {
-  "name": "Lêɠêɳ̃dẞø†",
-  "description": "Tнє ßєѕτ υѕєяϐοτ мα∂є ϐγ Lêɠêɳ̃dẞøY. Made with Love And By Python Language With Hardwork... ❤ ",
+  "name": "earning app share bot",
+  "description": "Tнє best usearbot mad by @earn464. Made with Love And By Python Language With Hardwork... ❤ ",
   "logo": "https://te.legra.ph/file/d17467283e73c884834a5.jpg",
   "keywords": [
     "telegram",
@@ -10,9 +10,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "website": "https://github.com/LEGEND-OS/LEGENDBOT/",
-  "success_url": "https://t.me/Legend_Userbot",
+  "repository": "https://github.com/asraf7380373/LEGENDBOT/",
+  "website": "https://github.com/asraf7380373/LEGENDBOT/",
+  "success_url": "https://t.me/earningapp1240",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -50,12 +50,12 @@
     },
     "YOUR_GROUP": {
       "description": "Set Ur Group Username",
-      "value": "@Legend_Userbot",
+      "value": "@earningapp1240",
       "required": false
     },
     "YOUR_CHANNEL": {
       "description": "Set Ur Channel Username",
-      "value": "@Official_LegendBot",
+      "value": "@earningapp1240",
       "required": false
     },
     "BOY_OR_GIRL": {
